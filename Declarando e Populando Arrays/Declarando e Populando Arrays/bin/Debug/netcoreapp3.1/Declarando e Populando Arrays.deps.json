@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Declarando e Populando Arrays/1.0.0": {
+        "runtime": {
+          "Declarando e Populando Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Declarando e Populando Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

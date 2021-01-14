@@ -1,0 +1,72 @@
+#Chupar uma bala
+INICIO
+1.Pegar a bala
+2.Abrir a bala
+3.Levar até a boca
+4.Realizar movimentos bucais
+5.Engoliar a saliva
+FIM
+
+#Tomar Banho
+INICIO
+0.Pegar a roupa limpa
+1.Se dirigir ao banheiro
+2.Abrir a porta do banheiro
+3.entrar no banheiro
+4.fechar a porta do banheiro
+5. Colocar a roupa limpa estendida
+6.Retirar a roupa
+7.Colocar a roupa suja no cesto de roupas sujas
+8.Pegar a toalha
+9.Abrir o box
+10.Entrar no box
+11.Fechar o box
+12.Verificar se tem o sabonete e Shampoo
+13.Ligar o chuveiro
+14.Avaliar a temperatura da agua
+15.ficar sob a agua
+15.Molhar os cabelos
+17.Passar shampoo no cabelo
+18.enchaguar os cabelos
+19.Passar o condicionador nos cabelos.
+20.Deixar o condicionador agir
+21.Enchaguar os cabelos
+22.Passar sabonete no corpo
+23.Enchaguar o corpo
+24.Desligar o chuveiro
+25.pegar a toalha
+26.Se secar
+27.Abrir o box
+28.Sair do box
+29.Fechar o box
+30.Pendurar a toalha
+31.Colocar a roupa limpa
+32.Pentear os cabelos
+33.Abrir a porta do banheiro
+32.Sair do banheiro
+34.Fechar a porta do banheiro.
+FIM
+
+
+#Trocar uma Lampada
+INICIO
+1.Lampada queimada
+2.Desligar a energia
+3.Escolha uma lâmpada nova de mesma
+potência/voltagem da queimada
+4.Pegar a escada
+5.posionar a escada
+6.Pegar a lampada nova
+7.Suba na escada até alcançar a lâmpada
+queimada
+8.Gire a lâmpada queimada no sentido antihorário até que ela se solte.
+9.retirar a lampada queimada
+10.Posicione a lâmpada nova no soquete
+11.Gire a lâmpada nova no sentido horário, até que ela se firme.
+12.Descer da escada
+13.Descartar a lampada queimada
+14.Religar a energia
+15.Testar a lampada nova
+16.Recolher a escada
+17.Guardar a escada.
+FIM
