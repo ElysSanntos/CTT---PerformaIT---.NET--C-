@@ -1,0 +1,12 @@
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\20200113-PrimeirosPassos\20200113-PrimeirosPassos\bin\Debug\netcoreapp3.1\20200113-Lista.exe
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\20200113-PrimeirosPassos\20200113-PrimeirosPassos\bin\Debug\netcoreapp3.1\20200113-Lista.deps.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\20200113-PrimeirosPassos\20200113-PrimeirosPassos\bin\Debug\netcoreapp3.1\20200113-Lista.runtimeconfig.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\20200113-PrimeirosPassos\20200113-PrimeirosPassos\bin\Debug\netcoreapp3.1\20200113-Lista.runtimeconfig.dev.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\20200113-PrimeirosPassos\20200113-PrimeirosPassos\bin\Debug\netcoreapp3.1\20200113-Lista.dll
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\20200113-PrimeirosPassos\20200113-PrimeirosPassos\bin\Debug\netcoreapp3.1\20200113-Lista.pdb
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\20200113-PrimeirosPassos\20200113-PrimeirosPassos\obj\Debug\netcoreapp3.1\20200113-Lista.AssemblyInfoInputs.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\20200113-PrimeirosPassos\20200113-PrimeirosPassos\obj\Debug\netcoreapp3.1\20200113-Lista.AssemblyInfo.cs
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\20200113-PrimeirosPassos\20200113-PrimeirosPassos\obj\Debug\netcoreapp3.1\20200113-Lista.csproj.CoreCompileInputs.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\20200113-PrimeirosPassos\20200113-PrimeirosPassos\obj\Debug\netcoreapp3.1\20200113-Lista.dll
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\20200113-PrimeirosPassos\20200113-PrimeirosPassos\obj\Debug\netcoreapp3.1\20200113-Lista.pdb
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\20200113-PrimeirosPassos\20200113-PrimeirosPassos\obj\Debug\netcoreapp3.1\20200113-Lista.genruntimeconfig.cache
