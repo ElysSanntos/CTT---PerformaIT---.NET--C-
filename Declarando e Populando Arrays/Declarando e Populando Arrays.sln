@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Declarando e Populando Arrays", "Declarando e Populando Arrays\Declarando e Populando Arrays.csproj", "{0EFE3EA3-4485-42A2-BDE5-A01FFBAFBD05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Declarando e Populando Arrays", "Declarando e Populando Arrays\Declarando e Populando Arrays.csproj", "{0EFE3EA3-4485-42A2-BDE5-A01FFBAFBD05}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2844F3B9-2D83-42BE-AF54-B4C0A77456BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeclarandoArray2", "DeclarandoArray2\DeclarandoArray2.csproj", "{F58A0703-2FDE-4B3F-A2AF-898DB4B6AB1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeclarandoArray2", "DeclarandoArray2\DeclarandoArray2.csproj", "{F58A0703-2FDE-4B3F-A2AF-898DB4B6AB1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodoDeImpressao", "metodoDeImpressao\metodoDeImpressao.csproj", "{CA167832-04DF-4F6B-B1D8-0AE73E39CDB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "metodoDeImpressao", "metodoDeImpressao\metodoDeImpressao.csproj", "{CA167832-04DF-4F6B-B1D8-0AE73E39CDB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcessandoOsElementosDoArray", "AcessandoOsElementosDoArray\AcessandoOsElementosDoArray.csproj", "{2B410D8E-F08F-45A3-8983-70F93C505C60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcessandoOsElementosDoArray", "AcessandoOsElementosDoArray\AcessandoOsElementosDoArray.csproj", "{2B410D8E-F08F-45A3-8983-70F93C505C60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcessandoUltimoElementoDoArray", "AcessandoUltimoItemDoArray\AcessandoUltimoElementoDoArray.csproj", "{35520965-64A5-4187-B802-0419D3616EC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcessandoUltimoElementoDoArray", "AcessandoUltimoItemDoArray\AcessandoUltimoElementoDoArray.csproj", "{35520965-64A5-4187-B802-0419D3616EC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrocandoAsPosicoes", "TrocandoAsPosicoes\TrocandoAsPosicoes.csproj", "{DB336403-9D35-4C70-934A-BB341054D15C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrocandoAsPosicoes", "TrocandoAsPosicoes\TrocandoAsPosicoes.csproj", "{DB336403-9D35-4C70-934A-BB341054D15C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperacoesComArray", "OperacoesComArray\OperacoesComArray.csproj", "{247A4AC1-218E-4DCA-A385-058B61F0056F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +49,10 @@ Global
 		{DB336403-9D35-4C70-934A-BB341054D15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB336403-9D35-4C70-934A-BB341054D15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB336403-9D35-4C70-934A-BB341054D15C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{247A4AC1-218E-4DCA-A385-058B61F0056F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247A4AC1-218E-4DCA-A385-058B61F0056F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247A4AC1-218E-4DCA-A385-058B61F0056F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247A4AC1-218E-4DCA-A385-058B61F0056F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

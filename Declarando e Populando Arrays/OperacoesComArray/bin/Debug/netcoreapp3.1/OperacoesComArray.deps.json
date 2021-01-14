@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OperacoesComArray/1.0.0": {
+        "runtime": {
+          "OperacoesComArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OperacoesComArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
