@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace _20200113_Lista
 
 {
-    class Program
+    class List
     {
         static void Main(string[] args)
         {
