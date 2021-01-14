@@ -1,0 +1,12 @@
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\Declarando e Populando Arrays\AcessandoUltimoItemDoArray\bin\Debug\netcoreapp3.1\AcessandoUltimoElementoDoArray.exe
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\Declarando e Populando Arrays\AcessandoUltimoItemDoArray\bin\Debug\netcoreapp3.1\AcessandoUltimoElementoDoArray.deps.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\Declarando e Populando Arrays\AcessandoUltimoItemDoArray\bin\Debug\netcoreapp3.1\AcessandoUltimoElementoDoArray.runtimeconfig.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\Declarando e Populando Arrays\AcessandoUltimoItemDoArray\bin\Debug\netcoreapp3.1\AcessandoUltimoElementoDoArray.runtimeconfig.dev.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\Declarando e Populando Arrays\AcessandoUltimoItemDoArray\bin\Debug\netcoreapp3.1\AcessandoUltimoElementoDoArray.dll
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\Declarando e Populando Arrays\AcessandoUltimoItemDoArray\bin\Debug\netcoreapp3.1\AcessandoUltimoElementoDoArray.pdb
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\Declarando e Populando Arrays\AcessandoUltimoItemDoArray\obj\Debug\netcoreapp3.1\AcessandoUltimoElementoDoArray.AssemblyInfoInputs.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\Declarando e Populando Arrays\AcessandoUltimoItemDoArray\obj\Debug\netcoreapp3.1\AcessandoUltimoElementoDoArray.AssemblyInfo.cs
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\Declarando e Populando Arrays\AcessandoUltimoItemDoArray\obj\Debug\netcoreapp3.1\AcessandoUltimoElementoDoArray.csproj.CoreCompileInputs.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\Declarando e Populando Arrays\AcessandoUltimoItemDoArray\obj\Debug\netcoreapp3.1\AcessandoUltimoElementoDoArray.dll
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\Declarando e Populando Arrays\AcessandoUltimoItemDoArray\obj\Debug\netcoreapp3.1\AcessandoUltimoElementoDoArray.pdb
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\Declarando e Populando Arrays\AcessandoUltimoItemDoArray\obj\Debug\netcoreapp3.1\AcessandoUltimoElementoDoArray.genruntimeconfig.cache
