@@ -25,7 +25,8 @@ namespace _20210114_Exercicios
 
             //Ordena a lista
             nomes.Sort();
-            Console.WriteLine("A lista possui: " + nomes.Count);
+            Console.WriteLine("A lista possui: " + nomes.Count + " nomes: ");
+            Console.WriteLine();
 
             //Imprime cada item da lista
             nomes.ForEach(i => Console.WriteLine(i));
