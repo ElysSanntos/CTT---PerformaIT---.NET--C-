@@ -1,0 +1,13 @@
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\Semafaro\obj\Debug\netcoreapp3.1\Semafaro.AssemblyInfoInputs.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\Semafaro\obj\Debug\netcoreapp3.1\Semafaro.AssemblyInfo.cs
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\Semafaro\obj\Debug\netcoreapp3.1\Semafaro.csproj.CoreCompileInputs.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\Semafaro\obj\Debug\netcoreapp3.1\Semafaro.csprojAssemblyReference.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\Semafaro\bin\Debug\netcoreapp3.1\Semafaro.exe
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\Semafaro\bin\Debug\netcoreapp3.1\Semafaro.deps.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\Semafaro\bin\Debug\netcoreapp3.1\Semafaro.runtimeconfig.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\Semafaro\bin\Debug\netcoreapp3.1\Semafaro.runtimeconfig.dev.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\Semafaro\bin\Debug\netcoreapp3.1\Semafaro.dll
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\Semafaro\bin\Debug\netcoreapp3.1\Semafaro.pdb
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\Semafaro\obj\Debug\netcoreapp3.1\Semafaro.dll
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\Semafaro\obj\Debug\netcoreapp3.1\Semafaro.pdb
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\Semafaro\obj\Debug\netcoreapp3.1\Semafaro.genruntimeconfig.cache
