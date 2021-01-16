@@ -10,3 +10,4 @@ C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\P
 C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\semafaroSwitchCase\obj\Debug\netcoreapp3.1\semafaroSwitchCase.dll
 C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\semafaroSwitchCase\obj\Debug\netcoreapp3.1\semafaroSwitchCase.pdb
 C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\semafaroSwitchCase\obj\Debug\netcoreapp3.1\semafaroSwitchCase.genruntimeconfig.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\semafaroSwitchCase\obj\Debug\netcoreapp3.1\semafaroSwitchCase.csprojAssemblyReference.cache
