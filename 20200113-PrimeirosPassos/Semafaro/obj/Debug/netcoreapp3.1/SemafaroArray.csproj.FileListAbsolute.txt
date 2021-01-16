@@ -10,3 +10,4 @@ C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\P
 C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\Semafaro\obj\Debug\netcoreapp3.1\SemafaroArray.dll
 C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\Semafaro\obj\Debug\netcoreapp3.1\SemafaroArray.pdb
 C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\Semafaro\obj\Debug\netcoreapp3.1\SemafaroArray.genruntimeconfig.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\Semafaro\obj\Debug\netcoreapp3.1\SemafaroArray.csprojAssemblyReference.cache
