@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20200113-Lista", "20200113-PrimeirosPassos\20200113-Lista.csproj", "{823FC467-4C65-41F8-9AEF-A2488602EF94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20210113_Lista", "20200113-PrimeirosPassos\20210113_Lista.csproj", "{823FC467-4C65-41F8-9AEF-A2488602EF94}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20210114_Exercicios", "20210114_Exercicios\20210114_Exercicios.csproj", "{324BB210-F71E-4E58-91DC-2AAD6C2AF154}"
 EndProject
@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SemafaroArray", "Semafaro\S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semafaro2", "Semafaro2\Semafaro2.csproj", "{88937144-FEE4-416B-A632-63F35A45EF5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "semafaroSwitchCase", "semafaroSwitchCase\semafaroSwitchCase.csproj", "{60049C85-3125-4980-A701-0FFA1EB39E0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "semafaroSwitchCase", "semafaroSwitchCase\semafaroSwitchCase.csproj", "{60049C85-3125-4980-A701-0FFA1EB39E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20210116", "20210116\20210116.csproj", "{68C192B9-14D8-4149-954A-B44A6340D0F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{60049C85-3125-4980-A701-0FFA1EB39E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60049C85-3125-4980-A701-0FFA1EB39E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60049C85-3125-4980-A701-0FFA1EB39E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68C192B9-14D8-4149-954A-B44A6340D0F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C192B9-14D8-4149-954A-B44A6340D0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C192B9-14D8-4149-954A-B44A6340D0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C192B9-14D8-4149-954A-B44A6340D0F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
