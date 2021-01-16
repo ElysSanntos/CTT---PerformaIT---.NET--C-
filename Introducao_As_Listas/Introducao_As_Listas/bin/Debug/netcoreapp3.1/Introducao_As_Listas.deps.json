@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Introducao_As_Listas/1.0.0": {
+        "runtime": {
+          "Introducao_As_Listas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Introducao_As_Listas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
