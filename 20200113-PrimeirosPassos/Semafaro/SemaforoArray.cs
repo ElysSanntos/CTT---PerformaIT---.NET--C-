@@ -17,21 +17,25 @@ namespace Semafaro
             if (cor == 1)
             {
                 Console.WriteLine("ABERTO: Pode atravessar com segurança.");
-
-                if (cor == 2)
-
-                    Console.WriteLine("ATENÇÃO: Fique alerta ao atravessar");
-
-                if (cor == 3)
-
-                    Console.WriteLine("PARE: O sinal está fechado.");
             }
-            else
-            if (cor <=0 || cor >3)
+            else if (cor == 2)
+            {
+
+                Console.WriteLine("ATENÇÃO: Fique alerta ao atravessar");
+            }
+            else if (cor == 3)
+            {
+            
+                Console.WriteLine("PARE: O sinal está fechado.");
+            }
+            
+            else 
+             
             {
                 Console.WriteLine("Avalie sua escolha, o valor informado é Nulo.");
 
             }
+
 #if DEBUG
             Console.WriteLine(); //pula linha
             Console.WriteLine("Tecle enter para fechar...");
