@@ -13,7 +13,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semafaro2", "Semafaro2\Sema
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "semafaroSwitchCase", "semafaroSwitchCase\semafaroSwitchCase.csproj", "{60049C85-3125-4980-A701-0FFA1EB39E0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20210116", "20210116\20210116.csproj", "{68C192B9-14D8-4149-954A-B44A6340D0F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20210116_Exercicios", "20210116\20210116_Exercicios.csproj", "{68C192B9-14D8-4149-954A-B44A6340D0F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprendendoSwitchCase", "AprendendoSwitchCase\AprendendoSwitchCase.csproj", "{7EB1FC60-A96F-46B3-9934-17D4E5E61505}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriandoUmMetodo", "CriandoUmMetodo\CriandoUmMetodo.csproj", "{87F6A389-9C29-48A8-A932-D8752296AA18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cardapio", "Cardapio\Cardapio.csproj", "{6949045B-EF91-4D58-8965-8F6B9EC0E2DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{68C192B9-14D8-4149-954A-B44A6340D0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68C192B9-14D8-4149-954A-B44A6340D0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68C192B9-14D8-4149-954A-B44A6340D0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB1FC60-A96F-46B3-9934-17D4E5E61505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB1FC60-A96F-46B3-9934-17D4E5E61505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB1FC60-A96F-46B3-9934-17D4E5E61505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB1FC60-A96F-46B3-9934-17D4E5E61505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F6A389-9C29-48A8-A932-D8752296AA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F6A389-9C29-48A8-A932-D8752296AA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F6A389-9C29-48A8-A932-D8752296AA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F6A389-9C29-48A8-A932-D8752296AA18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6949045B-EF91-4D58-8965-8F6B9EC0E2DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6949045B-EF91-4D58-8965-8F6B9EC0E2DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6949045B-EF91-4D58-8965-8F6B9EC0E2DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6949045B-EF91-4D58-8965-8F6B9EC0E2DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
