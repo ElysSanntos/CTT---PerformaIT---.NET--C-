@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elyss\\OneDrive\\Área de Trabalho\\COTUCA_DS\\Campinas Tech Talents 2020\\Projects\\CTT - PerformaIT - .NET (C#)\\20200113-PrimeirosPassos\\20210116\\20210116_Exercicios.csproj",
-      "projectName": "20210116_Exercicios",
-      "projectPath": "C:\\Users\\elyss\\OneDrive\\Área de Trabalho\\COTUCA_DS\\Campinas Tech Talents 2020\\Projects\\CTT - PerformaIT - .NET (C#)\\20200113-PrimeirosPassos\\20210116\\20210116_Exercicios.csproj",
+      "projectUniqueName": "C:\\Users\\elyss\\OneDrive\\Área de Trabalho\\COTUCA_DS\\Campinas Tech Talents 2020\\Projects\\CTT - PerformaIT - .NET (C#)\\20200113-PrimeirosPassos\\CriandoUmMetodo\\CriandoUmMetodo.csproj",
+      "projectName": "CriandoUmMetodo",
+      "projectPath": "C:\\Users\\elyss\\OneDrive\\Área de Trabalho\\COTUCA_DS\\Campinas Tech Talents 2020\\Projects\\CTT - PerformaIT - .NET (C#)\\20200113-PrimeirosPassos\\CriandoUmMetodo\\CriandoUmMetodo.csproj",
       "packagesPath": "C:\\Users\\elyss\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elyss\\OneDrive\\Área de Trabalho\\COTUCA_DS\\Campinas Tech Talents 2020\\Projects\\CTT - PerformaIT - .NET (C#)\\20200113-PrimeirosPassos\\20210116\\obj\\",
+      "outputPath": "C:\\Users\\elyss\\OneDrive\\Área de Trabalho\\COTUCA_DS\\Campinas Tech Talents 2020\\Projects\\CTT - PerformaIT - .NET (C#)\\20200113-PrimeirosPassos\\CriandoUmMetodo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
