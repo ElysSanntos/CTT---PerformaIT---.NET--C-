@@ -17,9 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20210116_Exercicios", "2021
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprendendoSwitchCase", "AprendendoSwitchCase\AprendendoSwitchCase.csproj", "{7EB1FC60-A96F-46B3-9934-17D4E5E61505}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriandoUmMetodo", "CriandoUmMetodo\CriandoUmMetodo.csproj", "{87F6A389-9C29-48A8-A932-D8752296AA18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CriandoUmMetodo", "CriandoUmMetodo\CriandoUmMetodo.csproj", "{87F6A389-9C29-48A8-A932-D8752296AA18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cardapio", "Cardapio\Cardapio.csproj", "{6949045B-EF91-4D58-8965-8F6B9EC0E2DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cardapio", "Cardapio\Cardapio.csproj", "{6949045B-EF91-4D58-8965-8F6B9EC0E2DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20210119 - For - Foreach", "20210119 - For - Foreach\20210119 - For - Foreach.csproj", "{ED3FB202-B423-411C-9F70-4E5DEB454B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20210119-MeninoOuMenina", "20210119-MeninoOuMenina\20210119-MeninoOuMenina.csproj", "{F28B9406-514D-47F3-98CC-2C56F16EEC51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{6949045B-EF91-4D58-8965-8F6B9EC0E2DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6949045B-EF91-4D58-8965-8F6B9EC0E2DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6949045B-EF91-4D58-8965-8F6B9EC0E2DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED3FB202-B423-411C-9F70-4E5DEB454B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3FB202-B423-411C-9F70-4E5DEB454B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3FB202-B423-411C-9F70-4E5DEB454B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3FB202-B423-411C-9F70-4E5DEB454B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28B9406-514D-47F3-98CC-2C56F16EEC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28B9406-514D-47F3-98CC-2C56F16EEC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28B9406-514D-47F3-98CC-2C56F16EEC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28B9406-514D-47F3-98CC-2C56F16EEC51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
