@@ -21,10 +21,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriandoUmMetodo", "CriandoU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cardapio", "Cardapio\Cardapio.csproj", "{6949045B-EF91-4D58-8965-8F6B9EC0E2DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enquanto-While", "Enquanto-While\Enquanto-While.csproj", "{9E458DB9-AE0C-4F9F-BC86-6951372CDC7E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio-While", "Exercicio-While\Exercicio-While.csproj", "{143237CB-7938-494A-95B3-C47E1DB1514E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,14 +63,6 @@ Global
 		{6949045B-EF91-4D58-8965-8F6B9EC0E2DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6949045B-EF91-4D58-8965-8F6B9EC0E2DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6949045B-EF91-4D58-8965-8F6B9EC0E2DB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9E458DB9-AE0C-4F9F-BC86-6951372CDC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9E458DB9-AE0C-4F9F-BC86-6951372CDC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9E458DB9-AE0C-4F9F-BC86-6951372CDC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9E458DB9-AE0C-4F9F-BC86-6951372CDC7E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{143237CB-7938-494A-95B3-C47E1DB1514E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{143237CB-7938-494A-95B3-C47E1DB1514E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{143237CB-7938-494A-95B3-C47E1DB1514E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{143237CB-7938-494A-95B3-C47E1DB1514E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
