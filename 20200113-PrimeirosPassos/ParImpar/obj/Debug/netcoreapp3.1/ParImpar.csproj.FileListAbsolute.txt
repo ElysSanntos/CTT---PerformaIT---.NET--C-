@@ -1,0 +1,13 @@
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.exe
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.deps.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.runtimeconfig.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.runtimeconfig.dev.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.dll
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.pdb
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.csprojAssemblyReference.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.AssemblyInfoInputs.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.AssemblyInfo.cs
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.csproj.CoreCompileInputs.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.dll
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.pdb
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.genruntimeconfig.cache

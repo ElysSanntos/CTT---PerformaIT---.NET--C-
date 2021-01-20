@@ -1,0 +1,3 @@
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\ParImpar-Lista\obj\Debug\netcoreapp3.1\ParImpar-Lista.AssemblyInfoInputs.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\ParImpar-Lista\obj\Debug\netcoreapp3.1\ParImpar-Lista.AssemblyInfo.cs
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\ParImpar-Lista\obj\Debug\netcoreapp3.1\ParImpar-Lista.csproj.CoreCompileInputs.cache
