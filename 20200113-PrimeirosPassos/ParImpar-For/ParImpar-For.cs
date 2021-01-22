@@ -21,7 +21,7 @@ namespace ParImpar
                 if (num[i] % 2 == 0)
                 {
                     par = num[1];
-                    Console.WriteLine(num[1].);
+                    Console.WriteLine(num[1]);
                 }
 
 

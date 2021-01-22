@@ -1,0 +1,13 @@
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\CriandoUmMetodo\bin\Debug\netcoreapp3.1\CriandoUmMetodo.exe
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\CriandoUmMetodo\bin\Debug\netcoreapp3.1\CriandoUmMetodo.deps.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\CriandoUmMetodo\bin\Debug\netcoreapp3.1\CriandoUmMetodo.runtimeconfig.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\CriandoUmMetodo\bin\Debug\netcoreapp3.1\CriandoUmMetodo.runtimeconfig.dev.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\CriandoUmMetodo\bin\Debug\netcoreapp3.1\CriandoUmMetodo.dll
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\CriandoUmMetodo\bin\Debug\netcoreapp3.1\CriandoUmMetodo.pdb
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\CriandoUmMetodo\obj\Debug\netcoreapp3.1\CriandoUmMetodo.csprojAssemblyReference.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\CriandoUmMetodo\obj\Debug\netcoreapp3.1\CriandoUmMetodo.AssemblyInfoInputs.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\CriandoUmMetodo\obj\Debug\netcoreapp3.1\CriandoUmMetodo.AssemblyInfo.cs
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\CriandoUmMetodo\obj\Debug\netcoreapp3.1\CriandoUmMetodo.csproj.CoreCompileInputs.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\CriandoUmMetodo\obj\Debug\netcoreapp3.1\CriandoUmMetodo.dll
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\CriandoUmMetodo\obj\Debug\netcoreapp3.1\CriandoUmMetodo.pdb
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\CriandoUmMetodo\obj\Debug\netcoreapp3.1\CriandoUmMetodo.genruntimeconfig.cache
