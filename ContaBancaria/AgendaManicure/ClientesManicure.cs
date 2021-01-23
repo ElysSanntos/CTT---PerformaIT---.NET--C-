@@ -4,10 +4,17 @@ using System.Text;
 
 namespace AgendaManicure
 {
+    //Criando as propriedades de Cliente
     class ClientesManicure
     {
-        public int CodCliente;
-        public string NomeCliente;
-        public string TelefoneCliente;
+        public int CodCliente { get; set; }
+        public string NomeCliente { get; set; }
+        public string TelefoneCliente { get; set; }
+    }
+
+    //Construtor
+    public  ClientesManicure()
+    {
+
     }
 }
