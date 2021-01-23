@@ -2,11 +2,12 @@
 
 namespace AgendaManicure
 {
-    class Program
+    class Cliente
+
     {
-        static void Main(string[] args)
-        {
-           
-        }
+     public int dia { get; set; }
+     public int hora { get; set; }
+     public int cliente { get; set; }
     }
-}
+ }
+

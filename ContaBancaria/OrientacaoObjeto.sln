@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaBancaria", "ConsoleApp2\ContaBancaria.csproj", "{81D75925-D459-4D9B-AEE0-3DEFC31F06DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaManicure", "AgendaManicure\AgendaManicure.csproj", "{E5011B79-D3E9-456A-BF2E-14BA1F240CD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgendaManicure", "AgendaManicure\AgendaManicure.csproj", "{E5011B79-D3E9-456A-BF2E-14BA1F240CD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

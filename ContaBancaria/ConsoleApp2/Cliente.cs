@@ -14,6 +14,7 @@ namespace ConsoleApp2
         public Conta ContaCorrente { get; set; }
         public Conta ContaPoupanca { get; set; }
 
+        // Construtor
         public Cliente()
         {
             ContaCorrente = new Conta();
