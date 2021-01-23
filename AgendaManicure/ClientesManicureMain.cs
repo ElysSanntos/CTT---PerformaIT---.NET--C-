@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AgendaManicure
 {
-    class ClientesManicure
+    class ClientesManicureMain
     {
         public int CodCliente { get; set; }
         public string NomeCliente { get; set; }
@@ -12,4 +12,10 @@ namespace AgendaManicure
 
 
     }
+    //Construtor
+    public ClientesManicure()
+    {
+        //TelefoneCliente  = new ClientesManicure();
+    }
 }
+
