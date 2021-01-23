@@ -23,5 +23,5 @@ class Program
             Console.WriteLine("item: {0}, value: {1}", i, lista[i]);
         }
     }
-}  }
-}
+}  
+

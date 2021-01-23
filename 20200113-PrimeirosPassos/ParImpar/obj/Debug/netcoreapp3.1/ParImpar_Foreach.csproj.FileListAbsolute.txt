@@ -10,4 +10,3 @@ C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\P
 C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\ParImpar\obj\Debug\netcoreapp3.1\ParImpar_Foreach.dll
 C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\ParImpar\obj\Debug\netcoreapp3.1\ParImpar_Foreach.pdb
 C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\ParImpar\obj\Debug\netcoreapp3.1\ParImpar_Foreach.genruntimeconfig.cache
-C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\Campinas Tech Talents 2020\Projects\CTT - PerformaIT - .NET (C#)\20200113-PrimeirosPassos\ParImpar\obj\Debug\netcoreapp3.1\ParImpar_Foreach.csprojAssemblyReference.cache
