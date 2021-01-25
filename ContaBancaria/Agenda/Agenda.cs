@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Threading;
 
 
-namespace Xpto
+namespace Manicure
 {
     public class Agenda
 
@@ -15,6 +15,7 @@ namespace Xpto
         public int hora2 { get; set; }
         public int minuto { get; set; }
         public int cliente { get; set; }
+        
 
 
         public string relacionamento;
@@ -22,10 +23,8 @@ namespace Xpto
         //DateTime horaFinal = new DateTime(2020, 8, 1, 12, 0, 0);
         //string resultado = DateTime.Compare(hora1, hora2);
 
-        
-
-           
-     
+              
+      
        
         public static bool ValidaHora(string maskhora)
         {
