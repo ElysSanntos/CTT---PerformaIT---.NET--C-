@@ -8,7 +8,7 @@ namespace Manicure
 {
     public class Program
     {
-        public static string NomeCliente { get;  set; }
+        public static string NomeCliente { get; set; }
 
         static void Main(string[] args)
         {
@@ -30,58 +30,69 @@ namespace Manicure
             bool continua = true;
 
             //Confirmar se a cliente deseja agendar um horario:
-            while (continua) {
+            while (continua)
+            {
                 Console.WriteLine("Escolha :  [1] 15:00 || [2] 16:00 || [3] 17:30");
                 cliente.AgendaHorario = int.Parse(Console.ReadLine());
 
-
-                switch (cliente.AgendaHorario)
+                if (cliente.AgendaHorario == 1)
                 {
-
-                    case 1:
-                        //Console.WriteLine("O horario das 15:00, está disponivel, podemos agendar?");
-                        break;
-
-                    case 2:
-                        Console.WriteLine("O horario das 16:00, está disponivel, podemos agendar?");
-                        break;
-
-                    case 3:
-                        Console.WriteLine("O horario das 17:30, está disponivel, podemos agendar?");
-                        break;
-
-                    default:
-                        Console.WriteLine("Horario informado é inválido ou está indisponivel, tente novamente, por favor.");
-                        break;
-
-                }
-
-                if(cliente.AgendaHorario ==1 || cliente.AgendaHorario == 2 || cliente.AgendaHorario == 3)
-                {
-                    Console.WriteLine(" O Horario " + cliente.AgendaHorario+" foi agendado com sucesso, lhe aguardamos! ");
-                }
-                else
-                {
-                    Console.WriteLine("Por favor, verifique o horario digitado");
-                    Console.WriteLine("Sair: S/N");
+                    Console.WriteLine("O horario das 15:00, está disponivel, podemos agendar?\r\n " +
+                                       "Confirma o horario?[S] para SIM e[N] para NÃO");
+                    
+                    string resposta = Console.ReadLine();
+                    if (resposta.ToUpper() == "S")
+                        Console.WriteLine("Agenda Confirmada para hoje as 15:hrs, lhe aguardamos, "
+                                        + cliente.NomeCliente + ". Agradecemos seu contato!");
+                    Console.WriteLine("\r\nTecle enter para fechar...");
                     continua = Console.ReadLine() != "S";
+
+                    if (resposta.ToUpper() == "N")
+                        continua = Console.ReadLine() != "N"; 
+
+                }else if (cliente.AgendaHorario == 2)
+                        {
+                            Console.WriteLine("O horario das 16:00, está disponivel, podemos agendar?\r\n " +
+                                       "Confirma o horario?[S] para SIM e[N] para NÃO");
+                    
+                    string resposta = Console.ReadLine();
+                    if (resposta.ToUpper() == "S")
+                        Console.WriteLine("Agenda Confirmada para hoje as 15:hrs, lhe aguardamos, "
+                                        + cliente.NomeCliente + ". Agradecemos seu contato!");
+
+                    if (resposta.ToUpper() == "N")
+                        continua = Console.ReadLine() != "S";
+                }else if (cliente.AgendaHorario == 3)
+                        {
+                            Console.WriteLine("O horario das 17:30, está disponivel, podemos agendar?\r\n " +
+                                       "Confirma o horario?[S] para SIM e[N] para NÃO");
+
+                    string resposta = Console.ReadLine();
+                    if (resposta.ToUpper() == "S")
+                        Console.WriteLine("Agenda Confirmada para hoje as 15:hrs, lhe aguardamos, "
+                                        + cliente.NomeCliente + ". Agradecemos seu contato!");
+
+                    if (resposta.ToUpper() == "N")
+                        continua = Console.ReadLine() != "S";
+                        }
+                        else 
+                        {
+                            Console.WriteLine("Horario informado é inválido ou está indisponivel, tente novamente, " +
+                                "por favor.");
+                          
+                        }
                 }
+
+#if DEBUG
+
+                Console.WriteLine("\r\nTecle enter para fechar...");
+                Console.ReadLine();
+#endif
+
             }
 
 
-            
-
-            
-
-#if DEBUG
-           
-            Console.WriteLine("\r\nTecle enter para fechar...");
-            Console.ReadLine();
-#endif
 
         }
-
-
-
     }
-}
+
