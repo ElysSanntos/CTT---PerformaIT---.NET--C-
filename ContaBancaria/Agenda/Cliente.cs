@@ -11,7 +11,7 @@ namespace Manicure
         public string NomeCliente { get; set; }
         public string TelefoneCliente { get; set; }
 
-        public int AgendaHorario { get; set; }
+        public string AgendaHorario { get; set; }
     }
 
    // public Cliente() { }

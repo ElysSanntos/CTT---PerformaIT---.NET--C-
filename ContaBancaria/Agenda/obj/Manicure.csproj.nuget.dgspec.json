@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elyss\\OneDrive\\Área de Trabalho\\COTUCA_DS\\TechTalents2020\\Projects\\CTT - PerformaIT - .NET (C#)\\ContaBancaria\\Agenda\\Manicure.csproj": {}
+    "C:\\Users\\elyss\\OneDrive\\Documentos\\Nova pasta\\ContaBancaria\\Agenda\\Manicure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elyss\\OneDrive\\Área de Trabalho\\COTUCA_DS\\TechTalents2020\\Projects\\CTT - PerformaIT - .NET (C#)\\ContaBancaria\\Agenda\\Manicure.csproj": {
+    "C:\\Users\\elyss\\OneDrive\\Documentos\\Nova pasta\\ContaBancaria\\Agenda\\Manicure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elyss\\OneDrive\\Área de Trabalho\\COTUCA_DS\\TechTalents2020\\Projects\\CTT - PerformaIT - .NET (C#)\\ContaBancaria\\Agenda\\Manicure.csproj",
+        "projectUniqueName": "C:\\Users\\elyss\\OneDrive\\Documentos\\Nova pasta\\ContaBancaria\\Agenda\\Manicure.csproj",
         "projectName": "Manicure",
-        "projectPath": "C:\\Users\\elyss\\OneDrive\\Área de Trabalho\\COTUCA_DS\\TechTalents2020\\Projects\\CTT - PerformaIT - .NET (C#)\\ContaBancaria\\Agenda\\Manicure.csproj",
+        "projectPath": "C:\\Users\\elyss\\OneDrive\\Documentos\\Nova pasta\\ContaBancaria\\Agenda\\Manicure.csproj",
         "packagesPath": "C:\\Users\\elyss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elyss\\OneDrive\\Área de Trabalho\\COTUCA_DS\\TechTalents2020\\Projects\\CTT - PerformaIT - .NET (C#)\\ContaBancaria\\Agenda\\obj\\",
+        "outputPath": "C:\\Users\\elyss\\OneDrive\\Documentos\\Nova pasta\\ContaBancaria\\Agenda\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

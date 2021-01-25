@@ -31,12 +31,12 @@ namespace Manicure
             while (continua)
             {
                 Console.WriteLine("Escolha :  [1] 15:00 || [2] 16:00 || [3] 17:30");
-                cliente.AgendaHorario = int.Parse(Console.ReadLine());
+                cliente.AgendaHorario = Console.ReadLine();
 
-                if (cliente.AgendaHorario == 1)
+                if (int.Parse(cliente.AgendaHorario) == 1)
                 {
                     Console.WriteLine("O horario das 15:00, está disponivel, podemos agendar?\r\n " +
-                                       "Confirma o horario? [S]SIM || [N]NÃO");
+                                       "Confirma o horario?\r\n [S]SIM || [N]NÃO");
 
                     string resposta = Console.ReadLine();
                     if (resposta.ToUpper() == "S")
@@ -50,30 +50,30 @@ namespace Manicure
 
                 }
 
-                else if (cliente.AgendaHorario == 2)
+                else if (int.Parse(cliente.AgendaHorario) == 2)
                 {
                     Console.WriteLine("O horario das 16:00, está disponivel, podemos agendar?\r\n " +
-                               "Confirma o horario? [S]SIM || [N]NÃO");
+                               "Confirma o horario?\r\n [S]SIM || [N]NÃO");
 
                     string resposta = Console.ReadLine();
                     if (resposta.ToUpper() == "S")
-                        Console.WriteLine("Agenda Confirmada para hoje as 15:hrs, lhe aguardamos, "
-                                        + cliente.NomeCliente + ". Agradecemos seu contato!");
+                        Console.WriteLine("Agenda Confirmada para hoje as 15:hrs.\r\nLhe aguardamos, "
+                                        + cliente.NomeCliente + ". \r\nAgradecemos seu contato!");
                     Console.WriteLine("\r\n [S]Sair || [N]Continuar");
                     string sair = Console.ReadLine();
                     if (sair.ToUpper() == "S")
                         continua = false;
 
                 }
-                else if (cliente.AgendaHorario == 3)
+                else if (int.Parse(cliente.AgendaHorario) == 3)
                 {
                     Console.WriteLine("O horario das 17:30, está disponivel, podemos agendar?\r\n " +
-                               "Confirma o horario? [S]SIM || [N]NÃO");
+                               "Confirma o horario? \r\n[S]SIM || [N]NÃO");
 
                     string resposta = Console.ReadLine();
                     if (resposta.ToUpper() == "S")
-                        Console.WriteLine("Agenda Confirmada para hoje as 15:hrs, lhe aguardamos, "
-                                        + cliente.NomeCliente + ". Agradecemos seu contato!");
+                        Console.WriteLine("Agenda Confirmada para hoje as 15:hrs. \r\rLhe aguardamos, "
+                                        + cliente.NomeCliente + ". \r\nAgradecemos seu contato!");
                     Console.WriteLine("\r\n [S]Sair || [N]Continuar");
                     string sair = Console.ReadLine();
                     if (sair.ToUpper() == "S")
