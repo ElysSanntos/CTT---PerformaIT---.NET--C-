@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-
+using static System.Net.Mime.MediaTypeNames;
 
 namespace Manicure
 {
@@ -23,6 +23,7 @@ namespace Manicure
             profissional.nomeProfissional = "Leila";
 
             Cliente horaAgenda = new Cliente();
+            
 
 
 
@@ -39,16 +40,20 @@ namespace Manicure
                 {
                     Console.WriteLine("O horario das 15:00, está disponivel, podemos agendar?\r\n " +
                                        "Confirma o horario?[S] para SIM e[N] para NÃO");
-                    
+
                     string resposta = Console.ReadLine();
                     if (resposta.ToUpper() == "S")
                         Console.WriteLine("Agenda Confirmada para hoje as 15:hrs, lhe aguardamos, "
                                         + cliente.NomeCliente + ". Agradecemos seu contato!");
                     Console.WriteLine("\r\nTecle enter para fechar...");
-                    continua = Console.ReadLine() != "S";
+                    //Finalizar a aplicação//
 
-                    if (resposta.ToUpper() == "N")
-                        continua = Console.ReadLine() != "N"; 
+                    Console.ReadKey();
+                
+
+                 if (resposta.ToUpper() == "N")
+                    continua = Console.ReadLine() != "N"; 
+
 
                 }else if (cliente.AgendaHorario == 2)
                         {
