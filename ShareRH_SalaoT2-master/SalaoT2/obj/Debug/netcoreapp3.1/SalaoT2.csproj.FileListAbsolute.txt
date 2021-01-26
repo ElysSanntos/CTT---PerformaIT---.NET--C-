@@ -1,0 +1,32 @@
+C:\Users\tcavalcante\Documents\PerformaIT\SalaoT2\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.exe
+C:\Users\tcavalcante\Documents\PerformaIT\SalaoT2\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.deps.json
+C:\Users\tcavalcante\Documents\PerformaIT\SalaoT2\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.runtimeconfig.json
+C:\Users\tcavalcante\Documents\PerformaIT\SalaoT2\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.runtimeconfig.dev.json
+C:\Users\tcavalcante\Documents\PerformaIT\SalaoT2\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.dll
+C:\Users\tcavalcante\Documents\PerformaIT\SalaoT2\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.pdb
+C:\Users\tcavalcante\Documents\PerformaIT\SalaoT2\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.csprojAssemblyReference.cache
+C:\Users\tcavalcante\Documents\PerformaIT\SalaoT2\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.AssemblyInfoInputs.cache
+C:\Users\tcavalcante\Documents\PerformaIT\SalaoT2\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.AssemblyInfo.cs
+C:\Users\tcavalcante\Documents\PerformaIT\SalaoT2\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.csproj.CoreCompileInputs.cache
+C:\Users\tcavalcante\Documents\PerformaIT\SalaoT2\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.dll
+C:\Users\tcavalcante\Documents\PerformaIT\SalaoT2\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.pdb
+C:\Users\tcavalcante\Documents\PerformaIT\SalaoT2\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.genruntimeconfig.cache
+C:\Users\tcavalcante\Documents\PerformaIT\SalaoT2\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.Dominio.dll
+C:\Users\tcavalcante\Documents\PerformaIT\SalaoT2\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.Dominio.pdb
+C:\Users\tcavalcante\Documents\PerformaIT\SalaoT2\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.csproj.CopyComplete
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ShareRH_SalaoT2-master\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.exe
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ShareRH_SalaoT2-master\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.deps.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ShareRH_SalaoT2-master\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.runtimeconfig.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ShareRH_SalaoT2-master\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.runtimeconfig.dev.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ShareRH_SalaoT2-master\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.dll
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ShareRH_SalaoT2-master\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.pdb
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ShareRH_SalaoT2-master\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.Dominio.dll
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ShareRH_SalaoT2-master\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.Dominio.pdb
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ShareRH_SalaoT2-master\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.csprojAssemblyReference.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ShareRH_SalaoT2-master\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.AssemblyInfoInputs.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ShareRH_SalaoT2-master\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.AssemblyInfo.cs
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ShareRH_SalaoT2-master\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.csproj.CoreCompileInputs.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ShareRH_SalaoT2-master\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.csproj.CopyComplete
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ShareRH_SalaoT2-master\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.dll
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ShareRH_SalaoT2-master\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.pdb
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ShareRH_SalaoT2-master\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.genruntimeconfig.cache

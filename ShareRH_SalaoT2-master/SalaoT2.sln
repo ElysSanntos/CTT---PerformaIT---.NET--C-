@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaoT2", "SalaoT2\SalaoT2.csproj", "{59FB92E6-A2E1-4226-BC8B-AC83B97BA83B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaoT2.Dominio", "SalaoT2.Dominio\SalaoT2.Dominio.csproj", "{0CC5C8FE-62E2-4B7D-8329-F261BA13E880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59FB92E6-A2E1-4226-BC8B-AC83B97BA83B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59FB92E6-A2E1-4226-BC8B-AC83B97BA83B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59FB92E6-A2E1-4226-BC8B-AC83B97BA83B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59FB92E6-A2E1-4226-BC8B-AC83B97BA83B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC5C8FE-62E2-4B7D-8329-F261BA13E880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC5C8FE-62E2-4B7D-8329-F261BA13E880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC5C8FE-62E2-4B7D-8329-F261BA13E880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC5C8FE-62E2-4B7D-8329-F261BA13E880}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08F34D2F-CD9F-4636-8AC8-DC61AA215097}
+	EndGlobalSection
+EndGlobal
