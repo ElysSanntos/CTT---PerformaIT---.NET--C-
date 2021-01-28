@@ -31,3 +31,8 @@ C:\Users\elyss\OneDrive\Documentos\Nova pasta\ContaBancaria\Agenda\obj\Debug\net
 C:\Users\elyss\OneDrive\Documentos\Nova pasta\ContaBancaria\Agenda\obj\Debug\netcoreapp3.1\Manicure.dll
 C:\Users\elyss\OneDrive\Documentos\Nova pasta\ContaBancaria\Agenda\obj\Debug\netcoreapp3.1\Manicure.pdb
 C:\Users\elyss\OneDrive\Documentos\Nova pasta\ContaBancaria\Agenda\obj\Debug\netcoreapp3.1\Manicure.genruntimeconfig.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ContaBancaria\Agenda\bin\Debug\netcoreapp3.1\Manicure.deps.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ContaBancaria\Agenda\bin\Debug\netcoreapp3.1\Manicure.runtimeconfig.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ContaBancaria\Agenda\bin\Debug\netcoreapp3.1\Manicure.runtimeconfig.dev.json
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ContaBancaria\Agenda\bin\Debug\netcoreapp3.1\Manicure.pdb
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\ContaBancaria\Agenda\obj\Debug\netcoreapp3.1\Manicure.genruntimeconfig.cache

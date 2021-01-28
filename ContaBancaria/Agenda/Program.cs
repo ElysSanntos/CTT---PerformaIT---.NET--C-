@@ -2,98 +2,57 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-
+using static Manicure.Funcionario;
 
 namespace Manicure
 {
     public class Program
     {
+        
+
         public static string NomeCliente { get; set; }
 
         static void Main(string[] args)
         {
-            Cliente cliente = new Cliente();
-            cliente.CodCliente = 01;
-            cliente.NomeCliente = "Maria Jose";
-            cliente.TelefoneCliente = "1234-1234";
+            var meusClientes = IncluirMeusClientes();
+            meusClientes.AlterarUmCliente(1, "Elys", "2345-2345", "");
+            meusClientes.ExcluirUmCliente(2);
 
-            Profissional profissional = new Profissional();
-            profissional.codProfissional = 01;
-            profissional.especialidade = "Manicure";
-            profissional.nomeProfissional = "Leila";
+            Funcionario f = new Funcionario();
+            f.cargoFuncionario = Funcionario.Especialidades.Cabelereira;
 
-            Cliente horaAgenda = new Cliente();
-
-            Console.WriteLine("Olá " + cliente.NomeCliente + ". \r\nVamos agendar um horario para hoje? \r\n");
-            bool continua = true;
-
-            //Confirmar se a cliente deseja agendar um horario:
-            while (continua)
-            {
-                Console.WriteLine("Escolha :  [1] 15:00 || [2] 16:00 || [3] 17:30");
-                cliente.AgendaHorario = Console.ReadLine();
-
-                if (int.Parse(cliente.AgendaHorario) == 1)
-                {
-                    Console.WriteLine("O horario das 15:00, está disponivel, podemos agendar?\r\n " +
-                                       "Confirma o horario?\r\n [S]SIM || [N]NÃO");
-
-                    string resposta = Console.ReadLine();
-                    if (resposta.ToUpper() == "S")
-                        Console.WriteLine("Agenda Confirmada para hoje as 15:hrs, lhe aguardamos, "
-                                        + cliente.NomeCliente + ". Agradecemos seu contato!");
-                    //Preciso encerrar a aplicação aqui
-                    Console.WriteLine("\r\n [S]Sair || [N]Continuar");
-                    string sair = Console.ReadLine();
-                     if(sair.ToUpper()=="S")
-                    continua = false;
-
-                }
-
-                else if (int.Parse(cliente.AgendaHorario) == 2)
-                {
-                    Console.WriteLine("O horario das 16:00, está disponivel, podemos agendar?\r\n " +
-                               "Confirma o horario?\r\n [S]SIM || [N]NÃO");
-
-                    string resposta = Console.ReadLine();
-                    if (resposta.ToUpper() == "S")
-                        Console.WriteLine("Agenda Confirmada para hoje as 15:hrs.\r\nLhe aguardamos, "
-                                        + cliente.NomeCliente + ". \r\nAgradecemos seu contato!");
-                    Console.WriteLine("\r\n [S]Sair || [N]Continuar");
-                    string sair = Console.ReadLine();
-                    if (sair.ToUpper() == "S")
-                        continua = false;
-
-                }
-                else if (int.Parse(cliente.AgendaHorario) == 3)
-                {
-                    Console.WriteLine("O horario das 17:30, está disponivel, podemos agendar?\r\n " +
-                               "Confirma o horario? \r\n[S]SIM || [N]NÃO");
-
-                    string resposta = Console.ReadLine();
-                    if (resposta.ToUpper() == "S")
-                        Console.WriteLine("Agenda Confirmada para hoje as 15:hrs. \r\rLhe aguardamos, "
-                                        + cliente.NomeCliente + ". \r\nAgradecemos seu contato!");
-                    Console.WriteLine("\r\n [S]Sair || [N]Continuar");
-                    string sair = Console.ReadLine();
-                    if (sair.ToUpper() == "S")
-                        continua = false;
-                }
-                else
-                {
-                    Console.WriteLine("Horario informado é inválido ou está indisponivel, tente novamente, " +
-                        "por favor.");
-                    continua = false;
-                }
-            }
 
 #if DEBUG
 
             Console.WriteLine("\r\nTecle enter para fechar...");
             Console.ReadLine();
 #endif
-
         }
+
+        static MinhaBaseDeClientes IncluirMeusClientes()
+            {
+                Cliente c1 = new Cliente();
+                c1.Incluir(1, "Thamirys", "3456-3456", "");
+                Cliente c2 = new Cliente();
+                c2.Incluir(2, "Thaise", "4567-4567", "");
+
+                MinhaBaseDeClientes mc = new MinhaBaseDeClientes();
+                mc.Incluir(c1);
+                mc.Incluir(c2);
+
+                var c3 = new Cliente();
+                c3.Incluir(3, "Maria", "5678-5678", "");
+                var c4 = new Cliente();
+                c4.Incluir(4, "Joana", "6789-6789", "");
+
+                mc.IncluirLista(c3, c4);
+
+                return mc;
+
+            }
+
+
     }
 }
+
 
