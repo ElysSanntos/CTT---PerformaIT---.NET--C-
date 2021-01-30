@@ -6,13 +6,27 @@ namespace Manicure
 {
     public class Endereco
     {
-        public int Id { get; set; }
-        public string Logradouro { get; set; }
-        public string CEP { get; set; }
-        public string Bairro { get; set; }
-        public string Cidade { get; set; }
-        public string UF { get; set; }
-        public string Numero { get; set; }
-        public string Complemento { get; set; }
+        public int IdAddress { get; set; }
+        public string Street { get; set; }
+        public string ZipCode { get; set; }
+        public string Neighborhood { get; set; }
+        public string City { get; set; }
+        public string State { get; set; }
+        public string Number { get; set; }
+        public string Complement { get; set; }
+
+        public void Incluir(int idAddrees,string street,string zipCode,string neighborhood,
+            string city,string state,string number,string complement)
+        {
+            IdAddress = idAddrees;
+            Street = street;
+            ZipCode = zipCode;
+            Neighborhood = neighborhood;
+            City = city;
+            State = state;
+            Number = number;
+            Complement = complement;
+
+        }
     }
 }
