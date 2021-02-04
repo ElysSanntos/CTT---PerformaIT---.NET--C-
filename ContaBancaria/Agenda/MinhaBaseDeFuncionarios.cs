@@ -15,11 +15,11 @@ namespace Manicure
             Funcionarios = new List<Funcionario>();
         }
 
-        public void Incluir(Funcionario func)
+        public void IncluirUmFuncionario(Funcionario func)
         {
-            int matricula = 0;
+            int matricula = 0; //Verifica se a lista de funcionarios tem alguem, se positivo, recebe o ultimo funcionario.matricula,senão incrementa
             if (Funcionarios.Any())
-                matricula = Funcionarios.Last().CodFuncioanario + 1;
+                matricula = Funcionarios.Last().CodFuncioanario+1;
             else
                 matricula++;
             func.CodFuncioanario = matricula;
@@ -28,15 +28,14 @@ namespace Manicure
 
         public void AlterarUmFuncionario(int matricula, string nomeNovo, string telefoneNovo, Endereco enderecoNovo, CargoFunc cargoNovo)
         {
-            Funcionarios.Find(func => func.CodFuncioanario == matricula)
-                .Alterar(nomeNovo, telefoneNovo, enderecoNovo, cargoNovo);
+            Funcionarios.Find(func => func.CodFuncioanario == matricula).AlterarFuncionario(nomeNovo, telefoneNovo, enderecoNovo, cargoNovo);
         }
 
         public void IncluirServicoDeUmFuncionario(int matricula, Servico servicos)
             //Vincular o funcionario ao serviço realizado no Salão
         {
             Funcionarios.Find(func => func.CodFuncioanario == matricula)
-                .IncluirServico(servicos); //procuro o func, verifico a matricula, e incluo o serviço
+                .VincularServicoAoFuncionario(servicos); //procuro o func, verifico a matricula, e incluo o serviço
         }
 
         public void ExcluirUmFuncionario(int matricula)
@@ -53,7 +52,7 @@ namespace Manicure
             //}
 
             Funcionarios.Find(func => func.CodFuncioanario == matricula)
-                .Services.RemoveAll(serv => serv.IdServico == idServ);
+                .Servicos.RemoveAll(serv => serv.IdServico == idServ);
             // Procura o funcionario, confirma a matricula e remove o serviço vinculado a matricula
         }
     }

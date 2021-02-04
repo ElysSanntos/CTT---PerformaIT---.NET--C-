@@ -15,7 +15,7 @@ namespace Manicure
         public string Number { get; set; }
         public string Complement { get; set; }
 
-        public void Incluir(int idAddrees,string street,string zipCode,string neighborhood,
+        public void IncluirAddress(int idAddrees,string street,string zipCode,string neighborhood,
             string city,string state,string number,string complement)
         {
             IdAddress = idAddrees;

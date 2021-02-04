@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "DvLuJllekLOQCJUL/70LtbpzPN7b24Eq4yJqZhOHWHgPm2Hjiwvewr0ol4Su7nboQHbuQuLP9n83FewPhePA8Q==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\elyss\\OneDrive\\Área de Trabalho\\COTUCA_DS\\TechTalents2020\\Projects\\CTT - PerformaIT - .NET (C#)\\CabeleireiraLeila\\Leila-main\\CabelosLeila\\Leila.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Não é possível encontrar o projeto 'C:\\Users\\elyss\\OneDrive\\Área de Trabalho\\COTUCA_DS\\TechTalents2020\\Projects\\CTT - PerformaIT - .NET (C#)\\CabeleireiraLeila\\Leila-main\\Leila.sln'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "C:\\Users\\elyss\\OneDrive\\Área de Trabalho\\COTUCA_DS\\TechTalents2020\\Projects\\CTT - PerformaIT - .NET (C#)\\CabeleireiraLeila\\Leila-main\\Leila.sln",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

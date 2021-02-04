@@ -8,6 +8,7 @@ namespace Manicure
     public class Funcionario
 
     {
+        //Contrutor de Serviço
         public Funcionario()
         {
             var Servicos = new List<Servico>();
@@ -42,18 +43,18 @@ namespace Manicure
         public List<Servico> Servicos { get; set; }
 
         //Metodos
-        public void Incluir(int matriculaFuncionario, string nomeFunc, string telefoneFuncionario,
+        public void IncluirFuncionario( string nomeFunc, string telefoneFuncionario,
             Endereco enderecoFuncionario, CargoFunc cargoFuncionario)
         {
-            CodFuncioanario = matriculaFuncionario;
+            //CodFuncioanario = matriculaFuncionario;
             NomeFuncionario = nomeFunc;
             Telefonefuncionario = telefoneFuncionario;
             var Endereco = enderecoFuncionario;
             Cargo = cargoFuncionario;
         }
 
-        public void Alterar(string telefone, //Altera as propriedades do funcionario
-string telefoneNovo, Endereco endereco, CargoFunc cargo)
+        public void AlterarFuncionario(string telefone, //Altera as propriedades do funcionario
+        string telefoneNovo, Endereco endereco, CargoFunc cargo)
 
         {
             Telefonefuncionario = telefone;
@@ -61,11 +62,18 @@ string telefoneNovo, Endereco endereco, CargoFunc cargo)
             Cargo = cargo;
         }
 
-        public void IncluirServico(Servico service) // Trata somente dos serviços - Faço a inclusão de um funcionario, 
-                                                    //e depois atribuo a ele os serviços que irá realizar no salão 
+
+        public void VincularServicoAoFuncionario(Servico serv)
         {
-            Servicos.Add(service);
+            Servicos.Add(serv);
+                
         }
+
+       
+
+        // Trata somente dos serviços - Faço a inclusão de um funcionario, 
+        //e depois atribuo a ele os serviços que irá realizar no salão 
+
 
         public void ExcluirServico(int id)
         {

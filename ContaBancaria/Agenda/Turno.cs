@@ -45,13 +45,17 @@ namespace Manicure
         }
         public DateTime[] RetornaHorarioDeTrabalho(TurnoFunc turno)
         {
+            DateTime[] turnoFunc = new DateTime[2];
             if (turno == TurnoFunc.Manha)
             {
-                DateTime[] turnoFunc = new DateTime[2];
+                
                 turnoFunc[0] = EntradaManha;
                 turnoFunc[1] = SaidaManha;
+
+                
             }
             return turnoFunc;
+
         }
 
     }

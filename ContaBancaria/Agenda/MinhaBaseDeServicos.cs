@@ -14,7 +14,7 @@ namespace Manicure
             Servicos = new List<Servico>();
         }
 
-        public void Incluir(Servico baseServico)
+        public void IncluirServico(Servico baseServico)
         {
             Servicos.Add(baseServico);
         }
@@ -24,14 +24,14 @@ namespace Manicure
             Servico servico = Servicos.FirstOrDefault();
             if (servico != null)
             {
-                servico.Alterar(nomeNovo, minutosParaExecucaoNovo, precoNovo);
+                servico.AlterarServico(nomeNovo, minutosParaExecucaoNovo, precoNovo);
             }
         }
 
         public void ExcluirUmServico(int id)
         {
             
-            Servicos.RemoveAll(serv => serv.IdServico == id);
+            Servicos.RemoveAll(serv => serv.IdServico == id); //serv esta para serv.IdServiço = id
         }
     }
 }
