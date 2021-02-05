@@ -35,5 +35,21 @@ namespace WebApplication1.Controllers
             })
             .ToArray();
         }
+
+        // pegar um obj especifico
+
+        [HttpGet("{id}")]
+        public WeatherForecast Get (int id)
+        {
+            var rng = new Random();
+            var lista = Enumerable.Range(1, 5).Select(index => new WeatherForecast
+            {
+                Date = DateTime.Now.AddDays(index),
+                TemperatureC = rng.Next(-20, 55),
+                Summary = Summaries[rng.Next(Summaries.Length)]
+            }).ToList();
+
+            return lista.ElementAt(id - 1);
+        }
     }
 }
