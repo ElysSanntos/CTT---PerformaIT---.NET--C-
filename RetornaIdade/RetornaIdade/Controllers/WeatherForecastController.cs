@@ -17,6 +17,7 @@ namespace RetornaIdade.Controllers
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
+        
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
@@ -38,22 +39,20 @@ namespace RetornaIdade.Controllers
 
         [HttpGet("{idade}")]
     
-        public string Idade(int idade, DateTime dtNascimento)
+        public int Get(int idade)
         {
-
-
-            if (dtNascimento <= DateTime.Now)
+            int anoAtual = Convert.ToInt32(DateTime.Now.Year);
+            int resultado = -1;
+            if (idade < anoAtual)
             {
-                idade = DateTime.Now.Year - dtNascimento.Year;
-                if (DateTime.Now.DayOfYear < dtNascimento.DayOfYear)
-                {
-                    idade -= 1;
-                }
-                int resultado = Convert.ToInt32(idade);
-                return resultado.ToString();
+               
+                resultado = (anoAtual - idade);
+                
             }
-            else
-                return ("Data inválida");
+            return (resultado);
+
         }
+         
+           
     }
 }
