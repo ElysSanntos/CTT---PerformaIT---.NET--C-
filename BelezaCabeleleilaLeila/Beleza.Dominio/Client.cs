@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace BelezaCaleleleilaLeila.Dominio
 {
-    class Client
+    public class Client
     {
         public int IdCliente { get; set; }
         public string NomeCliente { get; set; }
@@ -28,6 +28,7 @@ namespace BelezaCaleleleilaLeila.Dominio
             //Nome = null;
 
             TelefoneCliente = string.IsNullOrEmpty(telefone) ? TelefoneCliente : telefone;
+           
         }
     }
 }

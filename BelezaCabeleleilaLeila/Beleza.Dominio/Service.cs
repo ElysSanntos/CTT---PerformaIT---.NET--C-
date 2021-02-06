@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BelezaCaleleleilaLeila.Dominio
 {
-    class Service
+    public class Service
     {
         public int IdServico { get; set; }
         public string NomeServico { get; set; }

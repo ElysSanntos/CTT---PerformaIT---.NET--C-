@@ -4,8 +4,11 @@ using System.Text;
 
 namespace BelezaCaleleleilaLeila.Dominio
 {
-    class RequestedServices
+    public class RequestedServices
     {
+        public object Status { get;  set; }
+        public object StatusServico { get; set; }
+
         public class ServicoSolicitado
         {
             public int IdServSolicitado { get; set; }

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace BelezaCaleleleilaLeila.Dominio
 {
-    class Schedule
+    public class Schedule
     {
         
 
@@ -70,7 +70,7 @@ namespace BelezaCaleleleilaLeila.Dominio
                 }
                 else
                 {
-                    servicoParaAgendar.Status = ServicoSolicitado.StatusServico.Reagendado;
+                servicoParaAgendar.Status = ServicoSolicitado.StatusServico.Reagendado;
                     Cliente = cliente;
                     //ServicosSolicitados = servicosSolicitados;
                     ServicoSolicitado = servicoParaAgendar;
@@ -93,7 +93,7 @@ namespace BelezaCaleleleilaLeila.Dominio
             public void IncluirServicoSolicitado(int id, Service servico, Employee func)
             {
             RequestedServices ss = new RequestedServices();
-                ss.IncluirServicoSolicitados(id, servico, func);
+                ss.IncluirServicoSolicitado(id, servico, func);
             //RequestedServices.Add(ss);
         }
 
