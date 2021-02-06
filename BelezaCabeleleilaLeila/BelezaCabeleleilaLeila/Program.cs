@@ -22,26 +22,26 @@ namespace BelezaCabeleleilaLeila
                 //meusClientes.ExcluirUmCliente(2);
 
                 List<Schedule> agenda = new List<Schedule>();
-                agenda.Add (new Schedule
+                agenda.Add(new Schedule
                 {
                     IdAgendamento = 2,
                     ServicoSolicitado =
-                            new RequestedServices { IdServSolicitado = 2, Servico = meusServicos.Servicos.First() },
+                            new RequestedServices { IdServSolicitado = 2, ServSolicitado = meusServicos.Servicos.First() },
                     DtAgendamento = new DateTime(2021, 1, 29, 12, 0, 0)
                 });
                 agenda.Add(new Schedule
                 {
                     IdAgendamento = 2,
                     ServicoSolicitado =
-                            new RequestedServices { IdServSolicitado = 3, Servico = meusServicos.Servicos.First() },
+                            new RequestedServices { IdServSolicitado = 3, ServSolicitado = meusServicos.Servicos.First() },
                     DtAgendamento = new DateTime(2021, 1, 29, 11, 0, 0),
-                    Status = Schedule.StatusAgenda.CanceladoPeloCliente
+                    Status = Schedule.Sch_StatusAgenda.CanceladoPeloCliente
                 });
 
 
                 Schedule agendamento = new Schedule();
-                agendamento.IncluirAgendamento(1, meusClientes.Clientes.First(),
-                    new RequestedServices { IdServSolicitado = 1, Servico = meusServicos.Servicos.First() }, new DateTime(2021, 1, 29, 10, 0, 0),
+                agendamento.Sch_IncluirAgendamento(1, meusClientes.Clientes.First(),
+                    new RequestedServices { IdServSolicitado = 1, ServSolicitado = meusServicos.Servicos.First() }, new DateTime(2021, 1, 29, 10, 0, 0),
                     agenda);
             }
             catch (IOException)
