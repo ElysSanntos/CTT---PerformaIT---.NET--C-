@@ -8,7 +8,7 @@ namespace BelezaCaleleleilaLeila.Dominio
     {
         public Employee()
         {
-            Servicos = new List<Service>();
+            Services = new List<Service>();
         }
 
         public int MatriculaFuncionario { get; set; }
@@ -45,17 +45,17 @@ namespace BelezaCaleleleilaLeila.Dominio
 
         public void IncluirServicoNoFuncionario(Service serv)
         {
-            Service.Add(serv);
+            Services.Add(serv);
         }
 
         public void ExcluirServicoFuncionario(int id)
         {
             //Servicos.RemoveAll(s => s.Id == id);
 
-            List<Service> removerServicoDoFuncionario = Service.FindAll(f => f.IdServico == id);
+            List<Service> removerServicoDoFuncionario = Services.FindAll(f => f.IdServico == id);
             foreach (var remove in removerServicoDoFuncionario)
             {
-                Service.Remove(remove);
+                Services.Remove(remove);
             }
         }
     }

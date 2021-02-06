@@ -1,12 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections;
 using System.Text;
 using System.Linq;
-using System.Collections;
+using System.IO;
+
 
 namespace BelezaCaleleleilaLeila.Dominio
 {
-    class MyCustomerBase
+    public class MyCustomerBase
     {
         public List<Client> Clientes { get; set; }
 
@@ -28,7 +30,7 @@ namespace BelezaCaleleleilaLeila.Dominio
 
         public void AlterarUmCliente(int id, string nomeNovo, string telefoneNovo)
         {
-            Client cliente = Client.FirstOrDefault(cli => cli.IdCliente == id);
+            Client cliente = Clientes.FirstOrDefault(cli => cli.IdCliente == id);
             if (cliente != null)
             {
                 cliente.AlterarCliente(nomeNovo, telefoneNovo);

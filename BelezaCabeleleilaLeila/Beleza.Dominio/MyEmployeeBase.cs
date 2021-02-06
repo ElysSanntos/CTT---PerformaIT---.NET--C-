@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace BelezaCaleleleilaLeila.Dominio
@@ -16,15 +17,15 @@ namespace BelezaCaleleleilaLeila.Dominio
         public void IncluirUmFuncionario(Employee func)
         {
             int matricula = 0;
-            if (Employee.Any())
-                matricula = Employee.Last().MatriculaFuncionario + 1;
+            if (Funcionarios.Any())
+                matricula = Funcionarios.Last().MatriculaFuncionario + 1;
             else
                 matricula++;
             func.MatriculaFuncionario = matricula;
             Funcionarios.Add(func);
         }
 
-        public void AlterarUmFuncionario(int matricula, string nomeNovo, string telefoneNovo, Endereco enderecoNovo, CargoFunc cargoNovo)
+        public void AlterarUmFuncionario(int matricula, string nomeNovo, string telefoneNovo, Address enderecoNovo, Employee.CargoFunc cargoNovo)
         {
             Funcionarios.Find(func => func.MatriculaFuncionario == matricula)
                 .AlterarFuncionario(nomeNovo, telefoneNovo, enderecoNovo, cargoNovo);
@@ -54,4 +55,4 @@ namespace BelezaCaleleleilaLeila.Dominio
         }
     }
 }
-}
+

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace BelezaCaleleleilaLeila.Dominio
 {
-    class MyServiceBase
+    public class MyServiceBase
     {
         public List<Service> Servicos { get; set; }
 
