@@ -6,6 +6,16 @@ namespace BelezaCaleleleilaLeila.Dominio
 {
     public class RequestedServices
     {
+        public object Status { get;  set; }
+        public object StatusServico { get; set; }
+
+        public class ServicoSolicitado
+        {
+            public int IdServSolicitado { get; set; }
+            public Service Servico { get; set; }
+            public Employee Funcionario { get; set; }
+            public StatusServico Status { get; set; }
+            public DateTime DtServicoSolicitado { get; set; }
 
         public int IdServSolicitado { get; set; }
         public Service Servico { get; set; }

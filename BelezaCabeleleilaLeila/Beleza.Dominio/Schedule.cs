@@ -70,7 +70,7 @@ namespace BelezaCaleleleilaLeila.Dominio
                 }
                 else
                 {
-                    servicoParaAgendar.Status = RequestedServices.StatusServico.Reagendado;
+                servicoParaAgendar.Status = ServicoSolicitado.StatusServico.Reagendado;
                     Cliente = cliente;
                     //ServicosSolicitados = servicosSolicitados;
                     ServicoSolicitado = servicoParaAgendar;
