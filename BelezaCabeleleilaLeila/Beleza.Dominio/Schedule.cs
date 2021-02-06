@@ -93,7 +93,7 @@ namespace BelezaCaleleleilaLeila.Dominio
             public void IncluirServicoSolicitado(int id, Service servico, Employee func)
             {
             RequestedServices ss = new RequestedServices();
-                ss.IncluirServicoSolicitado(id, servico, func);
+                ss.IncluirServicoSolicitados(id, servico, func);
             //RequestedServices.Add(ss);
         }
 

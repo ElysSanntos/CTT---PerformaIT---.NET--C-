@@ -1,0 +1,4 @@
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\BelezaCabeleleilaLeila\BelezaCabeleleilaLeila\obj\Debug\netcoreapp3.1\BelezaCabeleleilaLeila.csprojAssemblyReference.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\BelezaCabeleleilaLeila\BelezaCabeleleilaLeila\obj\Debug\netcoreapp3.1\BelezaCabeleleilaLeila.AssemblyInfoInputs.cache
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\BelezaCabeleleilaLeila\BelezaCabeleleilaLeila\obj\Debug\netcoreapp3.1\BelezaCabeleleilaLeila.AssemblyInfo.cs
+C:\Users\elyss\OneDrive\Área de Trabalho\COTUCA_DS\TechTalents2020\Projects\CTT - PerformaIT - .NET (C#)\BelezaCabeleleilaLeila\BelezaCabeleleilaLeila\obj\Debug\netcoreapp3.1\BelezaCabeleleilaLeila.csproj.CoreCompileInputs.cache
