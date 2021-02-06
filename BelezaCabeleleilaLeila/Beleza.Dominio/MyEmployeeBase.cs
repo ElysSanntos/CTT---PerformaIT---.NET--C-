@@ -5,7 +5,7 @@ using System.Text;
 
 namespace BelezaCaleleleilaLeila.Dominio
 {
-    class MyEmployeeBase
+    public class MyEmployeeBase
     {
         public List<Employee> Funcionarios { get; set; }
 

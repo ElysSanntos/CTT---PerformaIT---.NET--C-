@@ -60,7 +60,6 @@ namespace BelezaCaleleleilaLeila.Dominio
                     return "Agendamento feito com sucesso.";
                 }
             }
-
             public string AlterarAgendamento(Client cliente, RequestedServices servicoParaAgendar,
                 DateTime dtAgendamento, List<Schedule> agenda, string anotacao = "")
             {
@@ -70,7 +69,7 @@ namespace BelezaCaleleleilaLeila.Dominio
                 }
                 else
                 {
-                servicoParaAgendar.Status = ServicoSolicitado.StatusServico.Reagendado;
+                    servicoParaAgendar.Status = ServicoSolicitado.StatusServico;
                     Cliente = cliente;
                     //ServicosSolicitados = servicosSolicitados;
                     ServicoSolicitado = servicoParaAgendar;
@@ -81,7 +80,8 @@ namespace BelezaCaleleleilaLeila.Dominio
                 }
             }
 
-            private bool PermiteAgendar(List<Schedule> agenda, RequestedServices servicoParaAgendar, DateTime dtAgendamento)
+            private bool PermiteAgendar(List<Schedule> agenda, 
+                RequestedServices servicoParaAgendar,DateTime dtAgendamento)
             {
                 DateTime dataTerminoParaAgendar = dtAgendamento.AddMinutes(servicoParaAgendar.Servico.TempoDeExecucaoDeUmServico);
                 return (agenda.Any(a => a.DtAgendamento >= dtAgendamento &&

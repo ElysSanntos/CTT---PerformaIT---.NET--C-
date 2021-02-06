@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BelezaCaleleleilaLeila.Dominio
 {
-    class MySchedulingBase
+    public class MySchedulingBase
     {
         public List<Schedule> Agendamentos { get; set; }
 

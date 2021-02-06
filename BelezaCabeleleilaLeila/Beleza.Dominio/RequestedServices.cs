@@ -6,8 +6,9 @@ namespace BelezaCaleleleilaLeila.Dominio
 {
     public class RequestedServices
     {
-        public object Status { get;  set; }
+        public object Status { get; set; }
         public object StatusServico { get; set; }
+        public object Servico { get; internal set; }
 
         public class ServicoSolicitado
         {
@@ -17,27 +18,25 @@ namespace BelezaCaleleleilaLeila.Dominio
             public StatusServico Status { get; set; }
             public DateTime DtServicoSolicitado { get; set; }
 
-        public int IdServSolicitado { get; set; }
-        public Service Servico { get; set; }
-        public Employee Funcionario { get; set; }
-        public StatusServico Status { get; set; }
-        public DateTime DtServicoSolicitado { get; set; }
 
-        public enum StatusServico
-        {
-            ARealizar,
-            Realizado,
-            Reagendado,
-            CanceladoPeloCliente,
-            CanceladoPeloSalao
-        }
 
-        public void IncluirServicoSolicitado(int id, Service servico, Employee func)
-        {
-            IdServSolicitado = id;
-            Servico = servico;
-            Funcionario = func;
+            public enum StatusServico
+            {
+                ARealizar,
+                Realizado,
+                Reagendado,
+                CanceladoPeloCliente,
+                CanceladoPeloSalao
+            }
+
+            public void IncluirServicoSolicitado(int id, Service servico, Employee func)
+            {
+                IdServSolicitado = id;
+                Servico = servico;
+                Funcionario = func;
+            }
         }
     }
 }
+
 
