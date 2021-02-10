@@ -1,29 +1,12 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "WebAPI_Dominio/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/WebAPI_Dominio.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WebAPI_Dominio.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "WebAPI_Dominio/1.0.0": {
-      "type": "project",
-      "path": "../ClassLibrary1/WebAPI_Dominio.csproj",
-      "msbuildProject": "../ClassLibrary1/WebAPI_Dominio.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "WebAPI_Dominio >= 1.0.0"
+      "C:\\Users\\elyss\\OneDrive\\Área de Trabalho\\COTUCA_DS\\TechTalents2020\\Projects\\CTT - PerformaIT - .NET (C#)\\WebAPI\\ClassLibrary1\\WebAPI_Dominio.csproj"
     ]
   },
   "packageFolders": {
@@ -94,5 +77,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Não é possível encontrar o projeto 'C:\\Users\\elyss\\OneDrive\\Área de Trabalho\\COTUCA_DS\\TechTalents2020\\Projects\\CTT - PerformaIT - .NET (C#)\\WebAPI\\ClassLibrary1\\WebAPI_Dominio.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "C:\\Users\\elyss\\OneDrive\\Área de Trabalho\\COTUCA_DS\\TechTalents2020\\Projects\\CTT - PerformaIT - .NET (C#)\\WebAPI\\ClassLibrary1\\WebAPI_Dominio.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
