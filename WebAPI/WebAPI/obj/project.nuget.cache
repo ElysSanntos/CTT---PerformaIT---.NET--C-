@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "Sreb9A+B/Icsay/5u6YGLnoHeDMeHzNUyPZoxe5fZ9Wy3U+pqIUNt+8nEgGNR9jP8x9AygykKvjEtThWw26J1Q==",
-  "success": true,
+  "dgSpecHash": "b9NVknV2y03pkpPo2sMHAYqj7cob5ipBa2ep5l9Qo5pabr6+wEIK82sx0TALbF135gUtf0tx13WHS/J1c8T+gQ==",
+  "success": false,
   "projectFilePath": "C:\\Users\\elyss\\OneDrive\\Área de Trabalho\\COTUCA_DS\\TechTalents2020\\Projects\\CTT - PerformaIT - .NET (C#)\\WebAPI\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Não é possível encontrar o projeto 'C:\\Users\\elyss\\OneDrive\\Área de Trabalho\\COTUCA_DS\\TechTalents2020\\Projects\\CTT - PerformaIT - .NET (C#)\\WebAPI\\ClassLibrary1\\WebAPI_Dominio.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "C:\\Users\\elyss\\OneDrive\\Área de Trabalho\\COTUCA_DS\\TechTalents2020\\Projects\\CTT - PerformaIT - .NET (C#)\\WebAPI\\ClassLibrary1\\WebAPI_Dominio.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
