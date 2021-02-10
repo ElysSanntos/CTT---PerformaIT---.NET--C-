@@ -12,36 +12,32 @@ namespace BelezaCabeleleilaLeila
         {
             try
             {
-                var meusClientes = IncluirMeusClientes();
-                var meusServicos = IncluirMeusServicos();
-                var meusFuncionarios = IncluirFuncionarios(meusServicos);
-
-                //meusFuncionarios.ExcluirServicoDeUmFuncionario(10, 1);
-
-                //meusClientes.AlterarUmCliente(1, "Diego", "199999999");
-                //meusClientes.ExcluirUmCliente(2);
+                var MyClients = IncluirMeusClientes();
+                var MyServices = IncluirMeusServicos();
+                var MyEmployees = IncluirFuncionarios(MyServices);
+                var MySchedule = IncluirMeusAgendamentos();
 
                 List<Schedule> agenda = new List<Schedule>();
                 agenda.Add(new Schedule
                 {
                     IdAgendamento = 2,
                     ServicoSolicitado =
-                            new RequestedServices { IdServSolicitado = 2, ServSolicitado = meusServicos.Servicos.First() },
+                            new RequestedServices { IdServSolicitado = 2, ServSolicitado = MyServices.Servicos.First() },
                     DtAgendamento = new DateTime(2021, 1, 29, 12, 0, 0)
                 });
                 agenda.Add(new Schedule
                 {
                     IdAgendamento = 2,
                     ServicoSolicitado =
-                            new RequestedServices { IdServSolicitado = 3, ServSolicitado = meusServicos.Servicos.First() },
+                            new RequestedServices { IdServSolicitado = 3, ServSolicitado = MyServices.Servicos.First() },
                     DtAgendamento = new DateTime(2021, 1, 29, 11, 0, 0),
                     Status = Schedule.Sch_StatusAgenda.CanceladoPeloCliente
                 });
 
 
                 Schedule agendamento = new Schedule();
-                agendamento.Sch_IncluirAgendamento(1, meusClientes.Clientes.First(),
-                    new RequestedServices { IdServSolicitado = 1, ServSolicitado = meusServicos.Servicos.First() }, new DateTime(2021, 1, 29, 10, 0, 0),
+                agendamento.Sch_IncluirAgendamento(1, MyClients.Clientes.First(),
+                    new RequestedServices { IdServSolicitado = 1, ServSolicitado = MyServices.Servicos.First() }, new DateTime(2021, 1, 29, 10, 0, 0),
                     agenda);
             }
             catch (IOException)
@@ -61,6 +57,14 @@ namespace BelezaCabeleleilaLeila
             Console.WriteLine("Continuando...");
             Console.ReadLine();
         }
+
+        private static object IncluirMeusAgendamentos()
+        {
+            Schedule agenda = new Schedule();
+
+            return new MySchedulingBase();
+        }
+
         static MyCustomerBase IncluirMeusClientes()
         {
             Client c1 = new Client();
